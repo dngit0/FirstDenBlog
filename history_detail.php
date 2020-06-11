@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>History</title>
+	<title>History Detail</title>
 </head>
 <body>
-	<div class="header">History page</div>
+	
 </body>
 </html>
