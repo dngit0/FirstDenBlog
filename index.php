@@ -6,5 +6,18 @@
 </head>
 <body>
 
+<header class="header">
+	<div class="logo"></div>
+	<nav class="menu">
+		<ul class="menu__list">
+			<li class="menu__list_item"></li>
+			<li class="menu__list_item"></li>
+			<li class="menu__list_item"></li>
+			<li class="menu__list_item"></li>
+			<li class="menu__list_item"></li>
+		</ul>
+	</nav>
+</header>
+
 </body>
 </html>
