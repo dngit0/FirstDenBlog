@@ -5,6 +5,6 @@
 	<title>History</title>
 </head>
 <body>
-	
+	<div class="view">HISTORY</div>
 </body>
 </html>
