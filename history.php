@@ -6,5 +6,6 @@
 </head>
 <body>
 	<div class="view">HISTORY</div>
+	<div class="header">History page</div>
 </body>
 </html>
