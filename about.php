@@ -5,6 +5,6 @@
 	<title>About</title>
 </head>
 <body>
-	
+	<div class="header">About</div>
 </body>
 </html>
